@@ -1,0 +1,110 @@
+body{
+	width: 100%;
+	background-image: url("images/back1.png");
+	color: white;
+	}
+.container{
+	margin: auto;
+	width: 90%;
+}
+	
+h1{
+	font-size: 45px;
+	font-family: 'Merriweather',serif;
+	font-weight: 400;
+	color: #FC888C;
+	border:black 1px solid;
+	border-radius: 20px;
+	background-color: black;
+	text-align: center;
+	margin: auto;
+	width: 80%;
+	letter-spacing: 0.2em;
+	padding: 2em;
+	
+}
+.center{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width:50;
+	border: grey;
+    border-radius: 30px;
+}
+.c2{
+	font-family: cursive;
+	font-size: 25px;
+	text-align: center;
+	padding: 2em;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+
+
+}
+ul
+{
+	font-size: 25px;
+width: 400px;
+margin-right: auto;
+margin-left: auto;
+}
+h2{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+.block{
+	font-size: 20px;
+	float:left;
+	width: 50%;
+	border:#F7F5A6 2px solid;
+	border-radius: 30px;
+	box-sizing: border-box;
+	padding-top: 2em;
+
+}
+.block ul{
+	list-style-image: url("images/pointer.jpg");
+}
+
+section{
+	display: block;
+}
+.c3{
+	font-size: 25px;
+}
+h4{
+	font-size: 40px;
+	text-align: left;
+}
+h5{
+	font-size: 35px;
+}
+h6
+{
+	font-size: 25px;
+}
+.block1
+{
+	font-size: 20px;
+	float:left;
+	width: 50%;
+	border:#A6F7F5 2px solid;
+	border-radius: 10px;
+	box-sizing: border-box;
+	padding-top: 1em;
+	background-image: url("images/back9.jpg");
+}
+.c7
+{
+	margin: auto;
+	border:red;
+	background-color: red;
+	padding: 0.5em;
+	width: 5em;
+	border-radius: 15px;
+}
